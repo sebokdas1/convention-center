@@ -1,6 +1,33 @@
-/* .section-carousel{
-    height: 1440px;
-} */
+
 .slide-images{
     height: 584px;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+.p-link{
+    background-color: #F496D1;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+.large-menu{
+    background-color: #ff00aa57;
+    border-radius: 20px;
+}
+.large-menu ul li{
+    font-size: 20px;
+    color: rgb(59, 2, 2);
+    font-weight: 600;
+}
+.large-menu p{
+    font-size: 16px;
+    color: rgb(59, 2, 2);
+}
+.p-l-link{
+    background-color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: #000;
+    font-weight: 700;
 }
