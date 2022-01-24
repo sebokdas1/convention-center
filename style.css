@@ -41,4 +41,8 @@ ul{
 }
 .footer-card{
     background-color: #2d343b;
+    border: none;
+}
+.rights{
+    color: gainsboro;
 }
