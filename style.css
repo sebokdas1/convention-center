@@ -33,3 +33,12 @@ ul{
     color: #000;
     font-weight: 700;
 }
+#copyright{
+    background-color: #2d343b;
+}
+.card-icon{
+    background-color: none;
+}
+.footer-card{
+    background-color: #2d343b;
+}
