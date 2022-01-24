@@ -7,9 +7,11 @@ ul{
     padding-left: 0;
 }
 .p-link{
-    background-color: #F496D1;
+    background-color: #5e6cee;
     text-decoration: none;
     padding: 10px 30px;
+    font-weight: 600;
+    color: beige;
 }
 .large-menu{
     background-color: #ff00aa57;
